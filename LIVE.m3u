@@ -3294,3 +3294,472 @@ http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/260420
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/260421
 #EXTINF:0 tvg-id="ext" group-title="Canais • Adulto (+18)",XXX ADULTO 01
 http://voz.one:80/saulof0nt30_5/jCvUTjHyjf5K/260422
+#EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="Canais em Teste" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal do Usuário (27/08/202403h32m)
+https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais em Teste",Feed 1 - Soul TV
+https://video01.soultv.com.br/soultv/soultv/chunklist_w1992219024.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais em Teste" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Feed 2 - Pluto TV
+https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fa97a8a75cc210007c9041d/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais em Teste" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Teste 4
+https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Canale5.it" group-title="Canais em Teste",Canal Teste 5
+https://cdn-luzilandi-10589.ciclano.io:1443/luzilandi-10589/luzilandi-10589/playlist.m3u8
+
+#EXTINF:0 tvg-id="Sbt.br" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",SBT Nacional
+https://aovivo.maissbt.com/index.m3u8?content_channel_id=12&content_livestream=1|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rede Roberto Marinho PE
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MjUwNDAxOTgsImlhdCI6MTcyNDk1Mzc5OCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTEyMCxpPTIpL2dsb2JvLXBlMS9wbGF5bGlzdC5tM3U4In0.vRt8wm9e6p3bRjspxs1TEnlvZKmuCq7qe-GBQ_Uer2nt2cBR7Vm35TP3Nx_ZVSi1gE3SINi67sg16T8Gqs_0HE64Q_zmldpeuwAsXVSNIMaqKcAINrFVmU1hFuogwqo2ngmD3CPWZpqi8aU46gUULCTZOB8pUSg6xgl32_K8TphRWe-pA5IBIr8pDddD69z8-uZMcZDk_c-BmraykCzGQZUfeq2AU_HQFcx_Mk_YkU0EF5jrubtckdq2sslHeHAkqy64nRHV56tcUpkNdDJ40N149s9YMHoyNPVeqNX72eVm6pW2sJ9pghRLLjFLhhwIj_N6BA_OcyvYq03kI-L3uw/nu/f(dvr=120,i=2)/globo-pe1/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Conquista - RecordTV MT
+http://tvconquistalrv.duckdns.org:8080/hls/tvconquistalrv.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades",Band Belém
+https://cdn.live.br1.jmvstream.com/w/LVW-15748/LVW15748_Yed7yzLuRC/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",RedeTV! Tocantins
+https://59f1cbe63db89.streamlock.net:1443/redetvro/_definst_/redetvro/playlist.m3u8
+#EXTINF:0 tvg-id="TVGazeta.br" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Gazeta - TV Cidade Araçatuba
+https://video02.logicahost.com.br/tvc21/tvc21/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="RedeFamilia.br" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rede Família
+https://tv01.zas.media:1936/rftv/rftv/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Diário
+https://d1zpubcqwsvgqw.cloudfront.net/out/v1/d33c00c8ecbe4aa9b7e834e607fbbacb/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="Variedades",Rede Brasil
+https://video07.logicahost.com.br/redebrasil/redebrasil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RTN TV
+https://tv01.zas.media:1936/rtntv/rtntv/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Canal21.br" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal 21
+https://ythls.armelin.one/channel/UC896QaWKoSGdZTmy9rHyU_g.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Idealtv.br" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Ideal TV
+https://s.apkwuv.xyz:80/6jcBys/VND1HB/83359|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",CNT HD
+https://cloudflare.cdn.spalla.io/live/9ff3c72d-cecc-4df2-96e0-8ff07e08d887/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcyNTU1ODIyMSwiaWF0IjoxNzI0OTUzNDIxLCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTcyNDk1MTYyMSwicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii85ZmYzYzcyZC1jZWNjLTRkZjItOTZlMC04ZmYwN2UwOGQ4ODcvIn0.jGui06Phyd7owbEsG5KwFbUD0jmmPhonoJ0xZUzqfSA&uid=01897f93-11ea-7109-b0e5-95e48456ba80&|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades",TV Meio
+https://br5093.streamingdevideo.com.br/jztykfkpnu/jztykfkpnu/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Vivax TV
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="rbk" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RBC TV HD
+https://60d88f8ce1206.streamlock.net/id2515/id2515/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="AmazonSat.br" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Amazon Sat HD
+https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades",Canal RBTV - Virtual TV
+https://5cf4a2c2512a2.streamlock.net/8290/8290/chunklist_w1225443174.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",Rede Mundo TV HD
+https://video04.logicahost.com.br/redemundotv/redemundotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",Astral TV
+https://isaocorp.cloudecast.com/astraltv/index.fmp4.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",Ypê TV
+https://video01.logicahost.com.br/ypetv/ypetv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",RDCTV
+https://br5093.streamingdevideo.com.br/datavideo01/datavideo01/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",Nihon Web TV
+https://stream.nihonwebtv.com:3778/stream/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",AUGE TV
+https://video05.logicahost.com.br:443/augetv/augetv/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades",TV Metrópolis HD
+https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/chunklist_w174397906.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Band WEB HD
+http://evpp.mm.uol.com.br:1935/bandpracas/debatemg/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PA: TV Guajará
+https://video05.logicahost.com.br/tvguajara/tvguajara/chunklist_w29213761.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades",PA: Rede Meio Norte -  TV One HD
+https://video02.logicahost.com.br/tvone/tvone/chunklist_w2006341608.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RJ: TV Cidade HD - Canal RBTV
+https://stream.ichibantv.com:3874/hybrid/play.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Variedades" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",SP: Rede Metrópole - Rede Meio Norte
+https://acesso.ecast.site:3456/stream/play.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="Redevida.br" group-title="Religioso",Rede Vida
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Mais Família HD
+https://video01.logicahost.com.br/redefamiliaa/redefamiliaa/playlist.m3u8
+#EXTINF:0 tvg-id="Tvaparecida.br" group-title="Religioso",TV Aparecida
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religioso",Novo Tempo
+https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Estação HD
+http://rbc.directradios.com:1935/rbc/rbc/live.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Século 21 HD
+https://cdn.jmvstream.com/w/LVW-10024/ngrp:LVW10024_H3QLdAY6kx_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religioso",Rede Gospel HD
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Religioso" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Boas Novas Belém
+https://cdn.jmvstream.com/w/LVW-9375/LVW9375_6i0wPBCHYc/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Religioso" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canção Nova Portugal
+https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova/chunklist_w83457119.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Religioso",TVCI HD
+https://5e837408ea907.streamlock.net:1936/tvci/tvci/playlist.m3u8
+
+#EXTINF:0 tvg-id="Redetv.br" group-title="Regionais",RedeTV! Mais Paraná
+https://cdn.jmvstream.com/w/AVJ-15235/playlist/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",Rede Cultura HD
+https://www.portalcultura.com.br/playerhtml/funtelpa/tv_funtelpa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",TV Brasil Central HD
+https://tbc.zoeweb.tv/tbc/tbc/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Nova Nordeste HD
+https://acesso.ecast.site:3675/live/novatvlive.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais",TV NBT
+https://isaocorp.cloudecast.com/nbt/index.fmp4.m3u8
+#EXTINF:0 tvg-id="Redetv.br" group-title="Regionais",RedeTV! Espirito Santo
+https://acesso.ecast.site:3186/live/esflixlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",BA: TV Aratu HD
+https://cdn.jmvstream.com/w/LVW-8379/LVW8379_rIq6ZYiIiA/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",GO: TV Sucesso
+https://live-stream.gsnoticias.net.br/live/live-goiania_720.flv
+#EXTINF:0 tvg-id="ext" group-title="Regionais",BA: CNT Salvador HD
+https://cloudflare.cdn.spalla.io/live/c0fbab1d-8ad6-4b6c-b053-b30a89b02110/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNDcxODU2MCwiaWF0IjoxNzE0MTEzNzYwLCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTcxNDExMTk2MCwicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii9jMGZiYWIxZC04YWQ2LTRiNmMtYjA1My1iMzBhODliMDIxMTAvIn0.Wx46uX9V0uURXVgU-Pmm5LJwVoc-r8dziAcqgyHa1E0&uid=01897f93-11ea-7109-b0e5-95e48456ba80&
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",MA: TV Difusora
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais",MA: TV Alternativa HD - TV MEIO
+https://stmv5.samcast.com.br/wagner7919/wagner7919/chunklist_w233023639.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",MG: TV Paranaiba
+https://app.paranaibaplay.com.br/mobile/tv/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",MT: TV Amplitude Juína
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="Regionais",MT: TV BRASIL OESTE HD
+https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",MT: TV Várzea Grande HD
+https://5ad482a77183d.streamlock.net/portalecovalegmail.com/portalecovalegmail.com/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",MT: TV Amplitude Juara
+https://cdn.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais",PA: TV Gazeta PA HD
+https://video01.kshost.com.br:4443/moises3834/moises3834/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",PA: SBT/Bem TV
+https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/chunklist_w966754397.m3u8
+#EXTINF:0 tvg-id="Redebrasil.br" group-title="Regionais",PA: TV Manajoara HD
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",PB: TV Arapuan HD
+https://5b7f3c45ab7c2.streamlock.net/arapuan/ngrp:arapuan_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PE: TV Jornal Interior
+https://ythls.armelin.one/channel/UCQD_Fq8NZXbHz9LI8Fa1Q9A.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PE: TV Jornal
+https://d3rhmbr9yq9ljg.cloudfront.net/out/v1/4dab2f11ddef44f1ad6e39df6f31d67b/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PI: TV Antena 10
+https://video04.logicahost.com.br/a10mais02/smil:transcoder.smil/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais",PI: TV Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverdenovo/cidadeverdenovo/chunklist_w1098979875.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",PI: TV Cidade Verde Picos
+https://stmv1.transmissaodigital.com/tvcidadeverde/tvcidadeverde/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",PI: TV O Dia HD
+https://59e4b6c1beddc.streamlock.net/tvodia/tvodia/chunklist_w1859406571.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",PR: CNT Paraná HD
+https://cloudflare.cdn.spalla.io/live/ee4d3ab8-a162-42d8-a4d0-e4ae03f9224a/s1/playlist-480p.m3u8?sjwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJiZXkiOnRydWUsImV4cCI6MTcxNDcxODQ3OSwiaWF0IjoxNzE0MTEzNjc5LCJpZCI6IjAxODk3ZjkzLTExZWEtNzEwOS1iMGU1LTk1ZTQ4NDU2YmE4MCIsIm5iZiI6MTcxNDExMTg3OSwicmF1IjpbXSwidWlkIjoiMDE4OTdmOTMtMTFlYS03MTA5LWIwZTUtOTVlNDg0NTZiYTgwIiwidXJpX3N1YiI6Ii9lZTRkM2FiOC1hMTYyLTQyZDgtYTRkMC1lNGFlMDNmOTIyNGEvIn0.w6iXCjvr-3QeP2y93INz6JjuOGjU1eUENn5TKsyFoPI&uid=01897f93-11ea-7109-b0e5-95e48456ba80&
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PR: Rede Massa HD
+https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PR: TV Tarobá
+https://cdn.jmvstream.com/w/LVW-8389/LVW8389_Z2OndyxPW6/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RN: TV Tropical HD
+https://video03.logicahost.com.br/portaldatropical/portaldatropical/chunklist_w880504285.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RN: TV Futuro HD
+https://tv02.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RO: Sic TV HD
+https://parecisfmlive.brasilstream.com.br/hls/parecisfmlive/index.m3u8?token=1488818561245878300|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais",RO: TV do Povo - Rede Meio Norte
+https://video01.logicahost.com.br/tvdopovo1/tvdopovo1/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais",RS: TV Pampa HD
+https://59f1cbe63db89.streamlock.net:1443/tvpampa/_definst_/tvpampa/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",SC: NDTV Criciúma
+https://caikron.com.br:19360/floripa/floripa.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",SP: SBT Interior
+https://cdn.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Regionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PR: Rede Massa HD
+https://d10tspkqgju994.cloudfront.net/out/v1/7d01acad7c474d559689a421c90168db/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Notícias" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Record News - TV SIM ES
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="JovemPanNews.br" group-title="Notícias",Jovem Pan News
+https://d6yfbj4xxtrod.cloudfront.net/out/v1/7836eb391ec24452b149f3dc6df15bbd/index.m3u8
+#EXTINF:0 tvg-id="Recordnews.br" group-title="Notícias" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Record News SC
+https://caikron.com.br:19360/floripa/floripa.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento",Central TV HD
+https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",ISTV HD
+https://stmv1.srvstm.com/sistema7933/sistema7933/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento",UlbTV HD
+https://stmv1.paineltv.net/ulbtv/ulbtv/chunklist_w580604736.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",BSTV HD
+https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Adesso TV HD
+https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rede NGT HD
+https://isaocorp.cloudecast.com/ngt/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Clouding TV
+https://stmv1.paineltv.net/redeclonetv/redeclonetv/chunklist_w1265657125.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento",TV Aracati HD
+https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento",AWTV HD
+https://acesso.ecast.site:3070/live/awtvlive.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Entretenimento" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rede America TV HD
+https://stmv5.samcast.com.br/claudio6986/claudio6986/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="Tvbrasil.br" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Brasil
+https://tvbrasil-stream.ebc.com.br/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Tvcultura.br" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Cultura
+https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rede Minas HD
+https://8hzcavccys.zoeweb.tv/redeminas/ngrp:redeminas_all/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos",TVE Bahia HD
+http://rtmp.irdeb.ba.gov.br/stream/dash/tvehd.mpd
+#EXTINF:0 tvg-id="Tvcamara.br" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Câmara
+https://stream3.camara.gov.br/tv1/manifest.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Tvassembleia.br" group-title="Canais Públicos",TV Assembleia de Minas Gerais
+https://streaming.almg.gov.br/live/tvalmg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos",TV Assembléia Ceará
+https://jjn5dkk9bd.zoeweb.tv/z404-live/stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos",Tv Assembléia MT HD
+https://streaming.al.mt.gov.br/test/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal Saúde
+https://arkyvbre1g.zoeweb.tv/fiocruz/fiocruz.stream/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Comunitária HD
+https://br5093.streamingdevideo.com.br/abc/abc/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal Gov HD
+https://canalgov-stream.ebc.com.br/mux_video_ts/index-1.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos",TV Paraná Turismo
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PE: TV Universitária Recife HD
+http://150.161.93.220/hls/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos",RS: TVE
+http://selpro1348.procergs.com.br:1935/tve/stve/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Públicos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",SC: RBA TV HD
+https://tv02.zas.media:1936/rbatv/rbatv/chunklist_w1775733882.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek",Geekdot HD
+https://stream.ichibantv.com:3764/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",PlayTV Mais
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek",Loading Web
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Otaku Sign TV
+https://stmv1.srvif.com/otaku/otaku/chunklist_w1556604543.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal Start HD
+https://stmv1.srvif.com/canalstart/canalstart/chunklist_w1822730812.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek",Polidoro TV
+http://stmv2.painelvideo.top/polidorotv/polidorotv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Locomotion SD
+http://51.222.85.85:81/hls/loco/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="Animax.de" group-title="Canais Geek",Animax
+https://stream.ichibantv.com:3547/hybrid/play.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek",Near Television
+https://cdnhd.iblups.com/hls/XXUFL7MBHY.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek",Kpop TV Play
+https://ssh101-fl.bozztv.com/ssh101/kpoptv/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Xtreme TV HD
+https://stmv1.srvif.com/xtremetv/xtremetv/chunklist_w31040624.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",StrikerVerso
+https://stream.ichibantv.com:3904/hybrid/play.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais Geek" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Teste
+https://stmv1.srvif.com/emanuels/emanuels/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",Esportes Brasília HD
+https://a.cdni.live/radioesporte/radioesporte/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",RS News Sports
+https://59f1cbe63db89.streamlock.net:1443/rsnewssports/_definst_/rsnewssports/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",All Sport HD
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",Unique Sports HD
+https://stream.uniquetv.com.br/uniquetvsports/video.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",Vitrine Esportiva
+https://cdn.jmvstream.com/w/AVJ-12930/playlist/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",RS News Sports 2
+https://59f1cbe63db89.streamlock.net:1443/rsnews/_definst_/rsnews/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",RS News Sports 3
+https://59f1cbe63db89.streamlock.net:1443/rsnews03/_definst_/rsnews03/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",RS News Sports 4
+https://59f1cbe63db89.streamlock.net:1443/rsnews04/_definst_/rsnews04/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",RS News Sports 5
+https://59f1cbe63db89.streamlock.net:1443/danielteste/_definst_/danielteste/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",Top TV Sports
+https://video05.logicahost.com.br/tvsports/tvsports/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",Paulistão
+https://ythls.armelin.one/channel/UCaf4uhI8ItLyM_6kZ5I5Zdw.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",Futebol Paulista
+https://ythls.armelin.one/channel/UCBFcL3nMWFcNnoWOEtacp1w.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",CazéTV
+https://ythls.armelin.one/channel/UCZiYbVptd3PVPf4f6eR6UaQ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",Canal GOAT
+https://ythls.armelin.one/channel/UC_oToDrJ6uca7d1dFVBmLtg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",TV FPF
+https://ythls.armelin.one/channel/UCf32_L5DB4JHsLhmqpdw3jw.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Esportes",BetBox TV
+https://video-weaver.for01.hls.ttvnw.net/v1/playlist/CtQFmX0Zz7neVxmMt9sKPSmlrsazV-frsBBY_UbRy0w5dXYWOk4yogKxzKtFQ2MscTFpKrb_7DtRFnixEC_AyizuGVTqOhhIXVeEiPKLVhdE11LaqQ2MEMCuByxCX-8h99mppuGUv-fmKCRBjeKvEaHThkXfwg-h8qEptmNx19ZWOkQ-fklYScK7sL94HbfDg5skNibTcT6hqJ2qJqwxESeN8o5hs-lx6eDCfT-_25d0NabUrARZgUJ-T49z_FRLwVwhlFM0_EsOSpD2UeP6a7UOqSmz3rwR_4qy4sn358EySt8kpnYwasZaUHI0E7-5oYQB34Tek1xcYWkBJVkcv3ifE0f5Dj9nXVBLw-_FsUVBft--vgkGByZHmO-ktSaTW96JvnKiT5jcL2egC6w0Y8VY887tZjR3MG_zdV3QhqoCdIElyzxRse8_3z3DP0rlWZrJ1qqUYrumDzh6afx8DZ_SXoa8i8x3cfqwp496BUrYvMok9iV2v9jPouP8H9fVam6OGjgKoaIbzZWrtHpICb8F4bCavjaDiwHC1A-b2OHg_f3tyQ3ttpFQqCA28cPuMCROZfMhj2ku5UhdVw0UMGISGMLF1ecACgIXPUkG5vACvj05MFwmK_omvjiS6KcASsDlunJotYDyr9odMyyy6bhSxELljjJhQH2Cyyu6YZTbFDpmO-qSOKUH-tCh2t4FkSyw8ZjxyKknLNUKbt833G3MyA3sxcMsxq7SqMAk2sHV2sXAmFDel0xxw4_Ed1Rocx8yyuteN86mk4u6PPx6tG9PfF_BI_fB0bjXacPKw3vn72M7gHEsgUe8sIXRFNGW6ryTjVyyPnLWKD3p3s_g851Lg_kEGICE5UKJJkyrxobaLG72ZXHuFrryGEIB6TavvqIZCeqATfg8sGB82Wf-gWbGhx73bIHs6gQxMAcspag3R7c1wv5I-x4qYSfr1bvEQM2D-vxcfRoMxOFN9Tjb_agEmM5cIAEqCXVzLWVhc3QtMTDLBw.m3u8
+
+#EXTINF:0 tvg-id="Futura.br" group-title="Educativos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Futura - Canal FDR
+https://d3ruy0tnspeepl.cloudfront.net/out/v1/fd552aa990884b16b28f8503f9bea360/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Educativos",Master TV
+https://5b33b873179a2.streamlock.net:1443/mastertv/livestream/playlist.m3u8
+#EXTINF:0 tvg-id="SESCTV.br" group-title="Educativos",Sesc TV HD
+https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/b0601c5cba87e912a4e37e8b68c1499b/video/a41dcac4-0033-46ca-b03f-d7858c6ad0c1_index.m3u8
+#EXTINF:0 tvg-id="CanalEducacao.br" group-title="Educativos",Canal Educação
+https://canaleducacao-stream.ebc.com.br/chunks.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Educativos" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal Libras
+https://canallibras-stream.ebc.com.br/mux_video_ts/index-1.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Educativos",TV Nova Educação HD
+https://live.comets.com.br/tvnovanordeste_222/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais de Humor" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal Humor
+https://6f12da3f4eab4ca0b8825034c79e1ac6.mediatailor.us-east-1.amazonaws.com/v1/master/215c0da80606fed29372070168106400a6ca7e1a/SSAI-Humor/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Humor",PoopTV
+https://stream.ichibantv.com:3522/hybrid/play.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais de Desenho" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RETRO CARTOON SD
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Desenho" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Kids TV HD
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f1214a637c6fd00079c652f/master.m3u8?advertisingId={PSID}&appVersion=unknown&deviceDNT={TARGETOPT}&deviceId={PSID}&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&us_privacy=1YNY|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Desenho" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Gospel Cartoon SD
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Desenho",F. Kids Network HD
+https://stmv1.srvif.com/emlsilva/emlsilva/playlist.m3u8
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Canais de Desenho",Tooncast
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+#EXTINF:0 tvg-id="Tooncast.br" group-title="Canais de Desenho",Tooncast SD
+https://cdn-1.nxplay.com.br/TOONCAST_TK/index.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais de Música",TV Max RIO
+https://5cf4a2c2512a2.streamlock.net/tvmax/tvmax/chunklist_w777565696.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Música" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rede União HD
+https://live.uniaoplus.com/hls/8b43MluBjzR7M1Uk.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Música" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Top TV HD
+https://isaocorp.cloudecast.com/toptv/tracks-v1a1/mono.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Música" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Interativa TV HD
+https://59f1cbe63db89.streamlock.net:1443/interativafm/_definst_/interativafm/chunklist_w37160837.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Música" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RN: TV União de Natal
+https://live.uniaoplus.com/hls/0gmf9QNc7bQ6V0Lu.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="Canais de Filmes",GLN TV HD
+https://stmv1.paineltv.net/glnfilmes/glnfilmes/chunklist_w875086446.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Filmes",Movies HD
+https://stmv1.srvif.com/movies1/movies1/chunklist_w1227343616.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Filmes",TV AGUA BOA SD
+https://5a2b083e9f360.streamlock.net/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Filmes",Classique TV
+https://stmv1.srvif.com/classique/classique/chunklist_w1179955502.m3u8
+
+#EXTINF:0 tvg-id="Terraviva.br" group-title="Agronegócio",Terraviva HD
+http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
+#EXTINF:0 tvg-id="Canalrural.br" group-title="Agronegócio",Canal Rural
+https://607d2a1a47b1f.streamlock.net/crur/smil:canalrural.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Agronegócio",Canal do Criador
+https://607d2a1a47b1f.streamlock.net/crur/smil:canaldocriador.smil/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Agronegócio",AgroBrasil TV
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Documentários" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Demais TV
+https://Stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="RedBullTV.de" group-title="Documentários" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="ext" group-title="Varejo",BR8TV
+https://cdn.live.br1.jmvstream.com/w/LVW-11668/ngrp:LVW11668_wiJpjbMrks_all/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Varejo" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TV Gazin
+https://caikron.com.br:19360/floripa/canal1.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Varejo" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Tenda TV
+https://tv02.zas.media:1936/tendatv/tendatv/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+
+#EXTINF:0 tvg-id="Sic.br" group-title="Internacionais",SIC Internacional
+https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
+#EXTINF:0 tvg-id="RTPInternacional.br" group-title="Internacionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",RTP Internacional
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/chunklist_b1290000_slpt.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="24Horas.sp" group-title="Internacionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",TVE 24h
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ForoTV.mx" group-title="Internacionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Faro TV HD
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index_3.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="OnceTV.mx" group-title="Internacionais" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Canal Once HD
+https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="dwelle" group-title="Internacionais",DW HD
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream02/streamPlaylist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Internacionais",Freedom HD
+https://freedom.cdn-01.cosmonova.net.ua/mobile-app/main/freedom/master.m3u8
+#EXTINF:0 tvg-id="RTEspanol.es" group-title="Internacionais",RT en Español
+https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Internacionais",NHK WORLD HD
+https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/bmcc-live/pt/playlist.m3u8
+
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Jornal Recife
+https://evpp.mm.uol.com.br/ne10/radiojornal-caruaru-avra-video-web.sdp/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Mix Belém HD
+https://streaming03.zas.media:1936/mixbelem/mixbelem/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Cultura do Nordeste
+https://ythls.armelin.one/channel/UClo4dVEnSq8sU7mY9YbsyJw.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Tupi FM
+https://ythls.armelin.one/channel/UCkkqXUQYUT0pC8RjZpfTZCQ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Itatiaia
+https://ythls.armelin.one/channel/UC9T0ZAarQHL4cJGFzORVsFg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Clube Fortaleza AM
+https://ythls.armelin.one/channel/UC5DzzKYARkStu98sWyCI6zg.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Transamérica Esportes
+https://ythls.armelin.one/channel/UC7COFHIM1-Osm9Sm0qIz-xQ.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Super Manajoara HD
+https://tv02.zas.media:1936/supermarajoara/supermarajoara/chunklist_w1514293823.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rede Clube FM
+https://clubefm1.brasilstream.com.br/hls/clubefm1/index.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",JC FM
+https://d1rkdnnqmg7q8z.cloudfront.net/out/v1/e6bb851f89aa42bf8fff9eb480ba667d/index.mpd|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Olinda FM
+https://5a57bda70564a.streamlock.net/radioolinda/radioolinda.sdp/chunklist_w1548909010.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Cidade FM
+https://video01.kshost.com.br:4443/fabio2861/fabio2861/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Clube Ararense
+https://virtues.es:1936/clubeararense/clubeararense/chunklist_w1257888935.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",FM O Dia Rio HD
+https://cdn.livespanel.com/live/fmodia/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",JK FM HD
+https://video02.logicahost.com.br/jkfm/jkfm/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Catve FM HD
+https://5b33b873179a2.streamlock.net:1443/catve2/catve2/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Antena 1 TV
+https://21qcxjbzwr.singularcdn.net.br/antena1/ngrp:live_all/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Massa FM
+https://cdn-cdn-massafmsp.ciclano.io:1443/cdn-massafmsp/cdn-massafmsp/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Sociedade
+https://painel.sintonizar.tv.br:1936/sociedadevideo/sociedadevideo/chunklist_w232524436.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Radio Cidade Verde
+https://stmv1.transmissaodigital.com/cidadeverde2/cidadeverde2/chunklist_w890656368.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Radio CV Mais
+https://59e4b6c1beddc.streamlock.net/cidadeverde2021/cidadeverde2021/chunklist_w1702912365.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Minas FM
+https://cdn.jmvstream.com/w/LVW-8064/LVW8064_mRt4RUB3CL/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Sertaneja
+https://cdn.jmvstream.com/w/LVW-8063/LVW8063_wasjsoUgqw/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Positiva FM
+https://video02.logicahost.com.br/positivafm/positivafm/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Cultura Pará
+https://www.portalcultura.com.br/playerhtml/funtelpa/radio_funtelpa/chunklist_w1230197756.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",CBN São Paulo HD
+https://live-01.edge-dtel-vsa-pe.video.globo.com/j/eyJhbGciOiJSUzUxMiIsImtpZCI6IjEiLCJ0eXAiOiJKV1QifQ.eyJjb3VudHJ5X2NvZGUiOiJCUiIsImRvbWFpbiI6ImxpdmUtMDEuZWRnZS1kdGVsLXZzYS1wZS52aWRlby5nbG9iby5jb20iLCJleHAiOjE3MTk1OTU5MDQsImlhdCI6MTcxOTUwOTUwNCwiaXNzIjoicGxheWJhY2stYXBpLXByb2QtZ2NwIiwib3duZXIiOiI5OTkwYTc3YS1hMGE2LTQ4NzQtYTZhNy1kY2RlYTdhODAyZGIiLCJwYXRoIjoiL251L2YoZHZyPTEyMCxpPTIpL2NibnNwMjRoYS9wbGF5bGlzdC5tM3U4In0.XiFWCvoJEvXT6ExRVqeYxfU72W_9ApXsAkCLcm4KXqq5hhpCOcCYam-v5jfJ6btQnEjPFiF2ViuRxOvdW63AEmexRaXVs9pGZ0j06NGnLWJ2coO5op3NG0YdWiJM8m5ZNn7Z502dQH9h-10BNeTkzXwXGHArikbozZ0KK-1ZYBdiR_HzckbIeqizdIlpFdMlDheZkPsAXAQsdWW1A8_NXjlTJcbzSMsMR64lr2sLQQOUyACTsHlxCYXEvgwhJlEenG8foMdfkWU9zUfXHXCbgYID1V3eF5_QnCM7NmC4_ivRC_vgKL53i8u1DDbb5l-G0IPizuREEntTTI_FNUnepA/nu/f(dvr=120,i=2)/cbnsp24ha/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",CBN Recife HD
+https://video05.logicahost.com.br/tvasabranca/tvasabranca/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",CBN Campinas HD
+https://streaming.empresaspioneiras.com.br/cbncampinas/stream.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Aparecida
+https://cdn.jmvstream.com/w/LVW-10637/LVW10637_hPQesYooeL/chunklist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Band FM Sorocaba
+https://cdn-mirtes787.ciclano.io:1443/mirtes787/mirtes787/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Band FM Pouso Alegre
+https://stmv1.transmissaodigital.com/bandpousoalegre/bandpousoalegre/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Band FM Campinas
+https://srv1.zcast.com.br/bandfmcampinas/bandfmcampinas/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Nativa Campinas
+https://srv1.zcast.com.br/nativafmcampinas/nativafmcampinas/playlist.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Jovem Pam FM Digital
+https://d233lioynu5inr.cloudfront.net/out/v1/c45e4e4af26a4d59b5d166c2a9ac2bbc/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Cultura Brasil
+https://evpp.mm.uol.com.br/cultura2/cultura2.sdp/chunklist_w1456486161.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",89 FM A Rádio Rock
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl8igtlYU8dfBa92nZpm-VlojN3kDIBruobNma11w-Q_V)/dm/3/x7wjrui/s/live-1.m3u8#cell=lnyc
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Clube Recife AM
+https://radio.saopaulo01.com.br/8018/stream?1625627194922
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Metró
+https://cast.animu.com.br:5010/
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio JHero
+https:\\stm1.radiojhero.com:18008\
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Tupi FM
+https://8923.brasilstream.com.br/stream?nocache=32711111
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Clube Fortaleza AM
+https://r10.ciclano.io:15075/stream?1651714823719
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Universitaria Recife FM
+http://150.161.93.221/hls/stream/index.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio",Rádio Rural FM
+http://cast2.youngtech.radio.br:8120/radio
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio MEC
+https://radiomec-stream.ebc.com.br/ebc/radiomec/chunks.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
+#EXTINF:0 tvg-id="ext" group-title="Canais de Áudio" user-agent="Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36",Rádio Nacional
+https://radionacionalamazonia-stream.ebc.com.br/ebc/radionacionalamazonia/chunks.m3u8|User-agent=Mozilla/5.0 (Windows NT 10.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.150 Safari/537.36
